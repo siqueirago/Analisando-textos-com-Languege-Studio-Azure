@@ -48,7 +48,7 @@ características mais complexas (olhos, focinhos).
 * **Segmentação de imagens:** Isolar objetos de interesse em uma imagem, como segmentar tumores em imagens médicas.
 * **Geração de imagens:** Utilizar redes generativas adversariais (GANs) para criar novas imagens realistas.
 ## Próximos Passos
-* **Escolha do dataset:** Defina o problema que você deseja resolver e encontre um dataset adequado.
+* **Escolha do dataset:** Definir o problema que  deseja resolver e encontre um dataset adequado.
 * **Pré-processamento:** Preparação dos dados para o treinamento, incluindo redimensionamento, normalização e aumento de dados.
 * **Implementação:** Implementação da rede neural utilizando TensorFlow/Keras ou outra biblioteca de deep learning.
 * **Treinamento:** Treinar o modelo utilizando um conjunto de dados de treinamento e valide o desempenho em um conjunto de dados de validação.
